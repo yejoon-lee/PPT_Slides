@@ -9,7 +9,7 @@ Various PPT slides I've used for presentations.
 - Contents
     - Recaps *Cho et al., 2014* and *Bahdanau et al., 2014*  
     - Explains transformer
- - [External Link](https://mysnu-my.sharepoint.com/:b:/g/personal/leeyejoon_seoul_ac_kr/EUzNweDtK2tFilL-JuwZOf4Buho9nzkN9OWuICLAY3N0pw?e=PAQwNm)
+ - [External Link]([https://mysnu-my.sharepoint.com/:b:/g/personal/leeyejoon_seoul_ac_kr/EUzNweDtK2tFilL-JuwZOf4Buho9nzkN9OWuICLAY3N0pw?e=PAQwNm](https://mysnu-my.sharepoint.com/:p:/g/personal/leeyejoon_seoul_ac_kr/EVi1aq89IOhOjfEE5HfivPoBf4HfeERo6cdorymLHrc-Sw?e=oCaXii))
 
 ### On Identifiability of Transformers
 - Topic: ***Brunner et al., 2020, On Identifiability in Transformers, ICLR***  
