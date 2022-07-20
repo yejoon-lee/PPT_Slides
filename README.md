@@ -22,3 +22,12 @@ Various PPT slides I've used for presentations.
     - Explains the basic concept of transformer and BERT
     - Explains the paper
 - [External Link](https://mysnu-my.sharepoint.com/:b:/g/personal/leeyejoon_seoul_ac_kr/ERtprr0dmeZErbjXW-9W7yYB2bM8NEELj38_97Z2MUhm7w?e=96793P)
+
+### Transformer (2022 ver.)
+- Topic: Transformer
+- Audience: AI bootcamp (OUTTA) mentors who are undergrads
+- Date: Jul 19, 2022
+- Contents:
+    - Essence of transformer (attention, self-attention, positional encoding)
+    - How transformer-based LMs may not follow the original Transformer
+- [External Link](https://mysnu-my.sharepoint.com/:b:/g/personal/leeyejoon_seoul_ac_kr/EZVUJrinPGxKvsR0bW2c27QB6SDx0YqAkLL1FnHByu7CIA?e=AmxdHw)
