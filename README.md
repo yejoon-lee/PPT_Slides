@@ -9,7 +9,7 @@ Various PPT slides I've used for presentations.
 - Contents
     - Recaps *Cho et al., 2014* and *Bahdanau et al., 2014*  
     - Explains transformer
- - [External Link](https://mysnu-my.sharepoint.com/:p:/g/personal/leeyejoon_seoul_ac_kr/EVi1aq89IOhOjfEE5HfivPoBf4HfeERo6cdorymLHrc-Sw?e=rKo73p)
+ - [Google Drive](https://drive.google.com/file/d/12AmKDAyA9NQI4qj6z88H8qF7Ljb0t-JY/view?usp=sharing)
 
 
 
@@ -21,7 +21,7 @@ Various PPT slides I've used for presentations.
     - Emphasizes the importance of transformer
     - Explains the basic concept of transformer and BERT
     - Explains the paper
-- [External Link](https://mysnu-my.sharepoint.com/:b:/g/personal/leeyejoon_seoul_ac_kr/ERtprr0dmeZErbjXW-9W7yYB2bM8NEELj38_97Z2MUhm7w?e=96793P)
+- [Google Drive](https://drive.google.com/file/d/19IkrlyUl_Kk6BVWvyym6Chbv7hNuDGHR/view?usp=sharing)
 
 ### Transformer (2022 ver.)
 - Topic: Transformer
@@ -30,4 +30,4 @@ Various PPT slides I've used for presentations.
 - Contents:
     - Essence of transformer (attention, self-attention, positional encoding)
     - How transformer-based LMs may not follow the original Transformer
-- [External Link](https://mysnu-my.sharepoint.com/:b:/g/personal/leeyejoon_seoul_ac_kr/EZVUJrinPGxKvsR0bW2c27QB6SDx0YqAkLL1FnHByu7CIA?e=AmxdHw)
+- [Google Drive](https://drive.google.com/file/d/1Bpm1-r-hp-8KGKVV4eNnChw29qURrCLB/view?usp=sharing)
